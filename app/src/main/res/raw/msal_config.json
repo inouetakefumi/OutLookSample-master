@@ -1,0 +1,14 @@
+{
+  "client_id": "",
+  "authorization_user_agent": "",
+  "redirect_uri": "",
+  "authorities": [
+    {
+      "type": "",
+      "audience": {
+        "type": "",
+        "tenant_id": ""
+      }
+    }
+  ]
+}

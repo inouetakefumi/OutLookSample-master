@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">OutLookSample</string>
+
+    <string name="move_api_activity">APIを使う</string>
+    <string name="move_sdk_activity">SDKを使う</string>
+
+    <string name="login">ログイン</string>
+    <string name="get_access_token">アクセストークンの取得</string>
+    <string name="call_api">Apiをコール</string>
+
+    <string name="error_message">エラーが発生しました。\n%1$s</string>
+
+    <string name="authorize_url">https://login.microsoftonline.com/common/oauth2/v2.0/authorize</string>
+    <string name="access_token_url">https://login.microsoftonline.com/common/oauth2/v2.0/token</string>
+    <string name="calendars_url">https://graph.microsoft.com/v2.0/me/calendars</string>
+
+    <string name="client_id">d73c16ed-5bc3-4ee3-aa74-199854793d6a</string>
+    <string name="redirect_uri">https://MyScheduleapp/auth</string>
+    <string name="client_secret">._.o-346pwy50p0Qb8ymPo9i-QjsbSRJvc</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
+
+
